@@ -1,0 +1,122 @@
+[14-Sep-2017 17:32:32 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[14-Sep-2017 17:32:32 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[14-Sep-2017 17:32:32 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[14-Sep-2017 17:35:17 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[14-Sep-2017 17:35:17 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[14-Sep-2017 17:35:17 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[14-Sep-2017 17:48:39 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[14-Sep-2017 17:48:40 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[14-Sep-2017 17:48:40 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[14-Sep-2017 19:43:50 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/selectQuestions.php on line 20
+[14-Sep-2017 19:44:26 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[14-Sep-2017 19:44:26 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[14-Sep-2017 19:44:26 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[14-Sep-2017 19:45:18 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectUsername.php on line 20
+[14-Sep-2017 19:45:18 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/selectUsername.php on line 22
+[15-Sep-2017 06:37:52 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 06:37:53 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 06:37:53 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 14:58:59 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 14:59:00 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 14:59:00 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 15:31:42 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 15:31:42 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 15:31:43 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 15:55:37 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectRegisterUser.php on line 22
+[15-Sep-2017 15:57:04 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 15
+[15-Sep-2017 15:57:04 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 16
+[15-Sep-2017 17:22:20 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 17:22:23 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 17:22:23 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 21:11:14 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 21:11:14 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[15-Sep-2017 21:11:15 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[18-Sep-2017 18:14:35 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectUsername.php on line 20
+[18-Sep-2017 18:14:35 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/selectUsername.php on line 22
+[18-Sep-2017 19:07:31 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectRegisterUser.php on line 22
+[18-Sep-2017 20:04:53 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/updateUserRegister.php on line 15
+[19-Sep-2017 01:42:15 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectAnswerTypeUser.php on line 22
+[19-Sep-2017 02:37:14 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[19-Sep-2017 02:37:14 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[19-Sep-2017 02:37:14 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 15
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: name in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 16
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: family in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 17
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: fathername in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 18
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: code in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 19
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: email in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 20
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: ostan in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 21
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: city in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 22
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 23
+[19-Sep-2017 02:39:08 Asia/Tehran] PHP Notice:  Undefined index: address in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 24
+[19-Sep-2017 03:37:30 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 15
+[19-Sep-2017 03:37:30 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 16
+[19-Sep-2017 03:37:30 Asia/Tehran] PHP Notice:  Undefined index: idq in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 17
+[19-Sep-2017 03:37:30 Asia/Tehran] PHP Notice:  Undefined index: ans in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 18
+[19-Sep-2017 05:42:19 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/selectQuestions.php on line 20
+[19-Sep-2017 09:08:22 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 15
+[19-Sep-2017 09:08:22 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 16
+[19-Sep-2017 09:08:22 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 15
+[19-Sep-2017 09:08:22 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 16
+[19-Sep-2017 20:38:44 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 15
+[19-Sep-2017 20:38:44 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerTypeUser.php on line 16
+[20-Sep-2017 04:36:21 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[20-Sep-2017 04:36:21 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 22
+[20-Sep-2017 04:36:23 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 23
+[21-Sep-2017 05:16:16 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectUsername.php on line 20
+[21-Sep-2017 05:16:16 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/selectUsername.php on line 22
+[21-Sep-2017 05:54:27 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 15
+[21-Sep-2017 05:54:27 Asia/Tehran] PHP Notice:  Undefined index: type in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 16
+[21-Sep-2017 05:54:27 Asia/Tehran] PHP Notice:  Undefined index: idq in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 17
+[21-Sep-2017 05:54:27 Asia/Tehran] PHP Notice:  Undefined index: ans in /home/aliexam2/public_html/appUser/insertAnswerUser.php on line 18
+[10-Oct-2017 16:21:47 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 16:21:48 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 16:21:49 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 17:21:54 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 17:21:55 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 17:21:56 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 17:21:57 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[10-Oct-2017 17:33:53 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectUsername.php on line 20
+[10-Oct-2017 17:33:53 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/selectUsername.php on line 22
+[10-Oct-2017 17:33:54 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/selectUsername.php on line 20
+[10-Oct-2017 17:33:54 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/selectUsername.php on line 22
+[31-Oct-2017 15:39:15 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[31-Oct-2017 15:39:28 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[31-Oct-2017 15:51:48 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[31-Oct-2017 15:52:06 Asia/Tehran] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/aliexam2/public_html/appUser/selectAnswersUser.php on line 9
+[31-Oct-2017 17:17:15 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[31-Oct-2017 17:17:15 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[31-Oct-2017 17:17:15 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 15
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: name in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 16
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: family in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 17
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: fathername in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 18
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: code in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 19
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: email in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 20
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: ostan in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 21
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: city in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 22
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 23
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: address in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 24
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertFristUser.php on line 15
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertFristUser.php on line 16
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: register in /home/aliexam2/public_html/appUser/insertFristUser.php on line 17
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 15
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: name in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 16
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: family in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 17
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: fathername in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 18
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: code in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 19
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: email in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 20
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: ostan in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 21
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: city in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 22
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 23
+[31-Oct-2017 17:17:16 Asia/Tehran] PHP Notice:  Undefined index: address in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 24
+[31-Oct-2017 17:17:20 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/updateUserRegister.php on line 15
+[31-Oct-2017 17:17:21 Asia/Tehran] PHP Notice:  Undefined index: username in /home/aliexam2/public_html/appUser/updateUserRegister.php on line 15
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: family in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 17
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: fathername in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 18
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: code in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 19
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: email in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 20
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: ostan in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 21
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: city in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 22
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: mobile in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 23
+[31-Oct-2017 17:25:56 Asia/Tehran] PHP Notice:  Undefined index: address in /home/aliexam2/public_html/appUser/insertUserinformation.php on line 24
